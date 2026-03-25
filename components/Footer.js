@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="footer-grid">
           <div className="footer-brand">
             <Image src="/images/happys-logo.png" alt="Happy's Collision Center" width={160} height={44} className="footer-logo" />
-            <p>Proudly serving the Santa Barbara and Ventura communities with expert collision repair for over 25 years. Part of the CARSTAR Auto Body Repair Experts network.</p>
+            <p>Proudly serving Santa Barbara with expert collision repair for over 25 years. Part of the CARSTAR Auto Body Repair Experts network.</p>
             <div className="footer-social">
               <a href="https://www.instagram.com/happysshop_/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
@@ -33,13 +33,7 @@ export default function Footer() {
           <div className="footer-links">
             <h4>Santa Barbara</h4>
             <a href="https://www.google.com/maps/dir//502+E+Haley+St,+Santa+Barbara,+CA+93103" target="_blank" rel="noopener noreferrer">502 E Haley St</a>
-            <a href="tel:8057307724">(805) 730-7724</a>
-            <span>Mon – Fri: 8 AM – 6 PM</span>
-          </div>
-          <div className="footer-links">
-            <h4>Ventura</h4>
-            <a href="https://www.google.com/maps/dir//6401+Ventura+Blvd,+Ventura,+CA+93003" target="_blank" rel="noopener noreferrer">6401 Ventura Blvd</a>
-            <a href="tel:8057654547">(805) 765-4547</a>
+            <a href="tel:8055000335">(805) 500-0335</a>
             <span>Mon – Fri: 8 AM – 6 PM</span>
           </div>
         </div>

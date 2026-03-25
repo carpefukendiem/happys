@@ -1,12 +1,12 @@
 import './globals.css';
 
 export const metadata = {
-  title: "CARSTAR Happy's Collision Center | Auto Body Repair Experts | Santa Barbara & Ventura",
+  title: "CARSTAR Happy's Collision Center | Auto Body Repair Experts | Santa Barbara",
   description:
-    "CARSTAR Happy's Collision Center provides expert auto body repair, collision repair, and paintless dent removal in Santa Barbara and Ventura, CA. I-CAR certified. 5-year nationwide warranty.",
+    "CARSTAR Happy's Collision Center provides expert auto body repair, collision repair, and paintless dent removal in Santa Barbara, CA. I-CAR certified. 5-year nationwide warranty.",
   openGraph: {
     title: "CARSTAR Happy's Collision Center",
-    description: 'Expert collision repair you can trust. Santa Barbara & Ventura.',
+    description: 'Expert collision repair you can trust in Santa Barbara.',
     type: 'website',
   },
 };

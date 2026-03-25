@@ -18,7 +18,7 @@ export default function About() {
               <Image src="/images/auto-body-experts.jpg" alt="Happy's Collision Center auto body shop team" width={600} height={450} />
             </div>
             <div className="about-img-wrapper about-img-secondary">
-              <Image src="/images/ventura-shop.jpg" alt="Happy's Collision Center Ventura location" width={330} height={248} />
+              <Image src="/images/service-paint.jpg" alt="Refinishing bay and paint equipment" width={330} height={248} />
             </div>
             <div className="about-experience-badge">
               <span className="exp-number">25+</span>
@@ -29,7 +29,7 @@ export default function About() {
             <span className="section-tag">Who We Are</span>
             <h2 className="section-title">The Happy&apos;s Difference</h2>
             <p className="about-lead">
-              For over 25 years, Happy&apos;s Collision Center has been the trusted name in auto body repair across Santa Barbara and Ventura counties. Now proudly part of the CARSTAR network, we combine local expertise with national resources.
+              For over 25 years, Happy&apos;s Collision Center has been a trusted name in Santa Barbara auto body repair. As part of the CARSTAR network, we combine local craftsmanship with national resources.
             </p>
             <p className="about-text">
               Every vehicle that enters our shop receives the same meticulous attention to detail. Our I-CAR Gold certified technicians use state-of-the-art equipment and the latest repair techniques to ensure your vehicle is restored to its pre-accident condition — or better.

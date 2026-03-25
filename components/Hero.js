@@ -7,7 +7,7 @@ export default function Hero() {
     <section className="hero" id="home">
       <div className="hero-bg">
         <Image
-          src="/images/header-bg.jpg"
+          src="/images/hero-santa-barbara.jpg"
           alt=""
           fill
           priority
@@ -33,12 +33,12 @@ export default function Hero() {
           <span className="hero-accent">You Can Trust</span>
         </h1>
         <p className="hero-subtitle" data-animate="fade-up" data-delay="200">
-          Santa Barbara & Ventura&apos;s premier auto body repair specialists.<br className="hide-mobile" />
+          Santa Barbara&apos;s trusted auto body repair specialists.<br className="hide-mobile" />
           I-CAR certified technicians. 5-year nationwide warranty.
         </p>
         <div className="hero-actions" data-animate="fade-up" data-delay="300">
           <Link href="#contact" className="btn btn-primary">Get a Free Estimate</Link>
-          <a href="tel:8007227827" className="btn btn-outline">Call (800) CARSTAR</a>
+          <a href="tel:8055000335" className="btn btn-outline">Call (805) 500-0335</a>
         </div>
         <div className="hero-stats" data-animate="fade-up" data-delay="400">
           <div className="stat">
@@ -47,7 +47,7 @@ export default function Hero() {
           </div>
           <div className="stat-divider"></div>
           <div className="stat">
-            <Counter target={2} />
+            <Counter target={1} />
             <span className="stat-label">Locations</span>
           </div>
           <div className="stat-divider"></div>

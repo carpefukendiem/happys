@@ -8,7 +8,7 @@ const reviews = [
   {
     text: "Professional from start to finish. They kept me updated throughout the entire repair process. My truck looks brand new! The team at Happy's is truly top-notch.",
     author: 'James T.',
-    location: 'Ventura',
+    location: 'Santa Barbara',
     initial: 'J',
   },
   {

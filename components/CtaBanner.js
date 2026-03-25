@@ -12,7 +12,7 @@ export default function CtaBanner() {
           </p>
           <div className="cta-actions">
             <Link href="#contact" className="btn btn-white">Request Free Estimate</Link>
-            <a href="tel:8007227827" className="btn btn-outline-white">Call (800) CARSTAR</a>
+            <a href="tel:8055000335" className="btn btn-outline-white">Call (805) 500-0335</a>
           </div>
         </div>
       </div>

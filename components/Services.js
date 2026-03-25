@@ -4,37 +4,37 @@ const services = [
   {
     title: 'Collision Repair',
     desc: 'Full-service collision repair for all makes and models. From minor fender benders to major structural damage, we restore your vehicle to pre-accident condition.',
-    img: 'https://images.unsplash.com/photo-1625047509248-ec889cbff17f?w=600&h=400&fit=crop',
+    img: '/images/service-collision.jpg',
     alt: 'Collision repair work',
   },
   {
     title: 'Paintless Dent Repair',
     desc: 'Advanced PDR technology removes dents and dings without affecting your factory paint finish. Faster, more affordable, and eco-friendly.',
-    img: 'https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=600&h=400&fit=crop',
+    img: '/images/service-pdr.jpg',
     alt: 'Paintless dent repair',
   },
   {
     title: 'Expert Color Matching',
     desc: 'Our computerized paint matching system ensures a seamless, factory-perfect finish every time. Your vehicle will look like it just rolled off the lot.',
-    img: 'https://images.unsplash.com/photo-1603791440277-08ce71bd0fac?w=600&h=400&fit=crop',
+    img: '/images/service-paint.jpg',
     alt: 'Auto paint color matching',
   },
   {
     title: 'Frame & Unibody Repair',
     desc: "State-of-the-art frame straightening and unibody repair equipment restores your vehicle's structural integrity to manufacturer specifications.",
-    img: 'https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=600&h=400&fit=crop',
+    img: '/images/service-frame.jpg',
     alt: 'Frame and unibody repair',
   },
   {
     title: 'Hail & Storm Damage',
     desc: 'Specialized repair for weather-related damage including hail dents, storm debris, and flood damage. We work with your insurance to simplify claims.',
-    img: 'https://images.unsplash.com/photo-1504222490345-c075b6008014?w=600&h=400&fit=crop',
+    img: '/images/service-hail.jpg',
     alt: 'Hail and storm damage repair',
   },
   {
     title: 'Insurance Assistance',
     desc: 'We work with all major insurance companies and handle the paperwork for you. Towing coordination, rental car assistance, and claims support included.',
-    img: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&h=400&fit=crop',
+    img: '/images/service-insurance.jpg',
     alt: 'Insurance paperwork assistance',
   },
 ];
