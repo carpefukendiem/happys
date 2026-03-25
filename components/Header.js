@@ -31,8 +31,8 @@ export default function Header() {
           <Image
             src="/images/happys-logo.png"
             alt="Happy's Collision Center"
-            width={180}
-            height={48}
+            width={230}
+            height={62}
             className="logo"
             priority
           />

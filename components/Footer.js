@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="container">
         <div className="footer-grid">
           <div className="footer-brand">
-            <Image src="/images/happys-logo.png" alt="Happy's Collision Center" width={160} height={44} className="footer-logo" />
+            <Image src="/images/happys-logo.png" alt="Happy's Collision Center" width={230} height={62} className="footer-logo" />
             <p>Proudly serving Santa Barbara with expert collision repair for over 25 years. Part of the CARSTAR Auto Body Repair Experts network.</p>
             <div className="footer-social">
               <a href="https://www.instagram.com/happysshop_/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">

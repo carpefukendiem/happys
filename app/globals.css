@@ -240,7 +240,7 @@ a {
   flex-shrink: 0;
 }
 .logo {
-  height: 48px;
+  height: 58px;
   width: auto;
   transition: opacity 0.3s;
 }
@@ -1207,10 +1207,10 @@ a {
 }
 
 .footer-logo {
-  height: 44px;
+  height: 58px;
   margin-bottom: 16px;
-  filter: brightness(0) invert(1);
-  opacity: 0.9;
+  width: auto;
+  opacity: 1;
 }
 
 .footer-brand p {
@@ -1312,6 +1312,10 @@ a {
 @media (max-width: 768px) {
   :root {
     --header-height: 68px;
+  }
+
+  .logo {
+    height: 42px;
   }
 
   .main-nav {
