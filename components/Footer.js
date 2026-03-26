@@ -32,9 +32,9 @@ export default function Footer() {
           </div>
           <div className="footer-links">
             <h4>Santa Barbara</h4>
-            <a href="https://www.google.com/maps/dir//502+E+Haley+St,+Santa+Barbara,+CA+93103" target="_blank" rel="noopener noreferrer">502 E Haley St</a>
+            <a href="https://www.google.com/maps/dir//135+S+Milpas+St,+Santa+Barbara,+CA+93103" target="_blank" rel="noopener noreferrer">135 S Milpas St</a>
             <a href="tel:8055000335">(805) 500-0335</a>
-            <span>Mon – Fri: 8 AM – 6 PM</span>
+            <span>Closed · Opens 9 AM</span>
           </div>
         </div>
         <div className="footer-bottom">

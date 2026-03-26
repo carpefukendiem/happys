@@ -47,7 +47,7 @@ export default function Contact() {
             <div className="form-group">
               <label htmlFor="location">Preferred Location</label>
               <select id="location" name="location">
-                <option value="santa-barbara">Santa Barbara — 502 E Haley St</option>
+                <option value="santa-barbara">Santa Barbara — 135 S Milpas St</option>
               </select>
             </div>
             <div className="form-group">
@@ -107,7 +107,7 @@ export default function Contact() {
                 <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
                 <div>
                   <strong>Business Hours</strong>
-                  <span>Mon – Fri: 8:00 AM – 6:00 PM</span>
+                  <span>Closed · Opens 9 AM</span>
                 </div>
               </div>
             </div>
