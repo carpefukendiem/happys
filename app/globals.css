@@ -1,5 +1,5 @@
 /* ============================================
-   CARSTAR Happy's Collision Center
+   Happy's Collision Center
    Premium Automotive Design System
    ============================================ */
 
@@ -368,11 +368,14 @@ a {
 .hero-badge {
   margin-bottom: 32px;
 }
-.hero-carstar-logo {
-  height: 60px;
+.hero-site-logo {
+  height: auto;
+  max-height: 64px;
+  width: auto;
+  max-width: min(100%, 240px);
   margin: 0 auto;
-  filter: brightness(0) invert(1);
-  opacity: 0.85;
+  object-fit: contain;
+  filter: drop-shadow(0 2px 12px rgba(0, 0, 0, 0.45));
 }
 
 .hero-title {

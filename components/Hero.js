@@ -20,11 +20,11 @@ export default function Hero() {
       <div className="hero-content">
         <div className="hero-badge" data-animate="fade-up">
           <Image
-            src="/images/carstar-logo.png"
-            alt="CARSTAR Auto Body Repair Experts"
-            width={200}
-            height={60}
-            className="hero-carstar-logo"
+            src="/images/happys-logo.png"
+            alt="Happy's Collision Center"
+            width={230}
+            height={62}
+            className="hero-site-logo"
             priority
           />
         </div>

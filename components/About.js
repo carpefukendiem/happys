@@ -29,7 +29,7 @@ export default function About() {
             <span className="section-tag">Who We Are</span>
             <h2 className="section-title">The Happy&apos;s Difference</h2>
             <p className="about-lead">
-              For over 25 years, Happy&apos;s Collision Center has been a trusted name in Santa Barbara auto body repair. As part of the CARSTAR network, we combine local craftsmanship with national resources.
+              For over 25 years, Happy&apos;s Collision Center has been a trusted name in Santa Barbara auto body repair, combining local craftsmanship with industry-leading training and equipment.
             </p>
             <p className="about-text">
               Every vehicle that enters our shop receives the same meticulous attention to detail. Our I-CAR Gold certified technicians use state-of-the-art equipment and the latest repair techniques to ensure your vehicle is restored to its pre-accident condition — or better.

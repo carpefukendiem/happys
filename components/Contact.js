@@ -116,7 +116,7 @@ export default function Contact() {
                 <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><polyline points="9 12 11 14 15 10" strokeWidth="2"></polyline></svg>
               </div>
               <h3>5-Year Nationwide Warranty</h3>
-              <p>Every qualifying repair is backed by our industry-leading warranty, honored at 700+ CARSTAR locations across North America.</p>
+              <p>Every qualifying repair is backed by our industry-leading warranty, honored nationwide.</p>
             </div>
           </div>
         </div>

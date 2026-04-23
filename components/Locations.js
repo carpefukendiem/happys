@@ -1,7 +1,7 @@
 const locations = [
   {
     city: 'Santa Barbara',
-    name: "CARSTAR Happy's Collision Center",
+    name: "Happy's Collision Center",
     address: '135 S Milpas St, Santa Barbara, CA 93103',
     phone: '(805) 500-0335',
     phoneTel: '8055000335',
